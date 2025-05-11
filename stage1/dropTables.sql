@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS ordered;
+DROP TABLE IF EXISTS service;
+DROP TABLE IF EXISTS shiftforworker;
+DROP TABLE IF EXISTS monthlyworker;
+DROP TABLE IF EXISTS hourlyworker;
+DROP TABLE IF EXISTS customer;
+DROP TABLE IF EXISTS employee;
+DROP TABLE IF EXISTS person;
