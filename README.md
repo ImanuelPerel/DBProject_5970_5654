@@ -13,13 +13,13 @@ This README summarizes **Stage 1** of the project:
 
 ## 📌 Entity-Relationship Diagram (ERD)
 
-![ERD Diagram](./968d2d8b-907c-42e6-bab7-dc2bed8713cf.png)
+![ERD Diagram](images/ERD.png)
 
 ---
 
 ## 📊 Data Structure Diagram (DSD)
 
-![DSD Diagram](./97fd1592-8bc3-41da-acf8-1013bf14ee7c.png)
+![DSD Diagram](images/DSD.png)
 
 ---
 
@@ -95,7 +95,7 @@ conn.close()
 
 Mockaroo can be used to generate structured synthetic data:
 
-![Mockaroo Example](./b7473126-5e72-4532-b491-b19563968484.png)
+![Mockaroo Example](images/Mockaroo.png)
 
 ---
 
@@ -108,7 +108,7 @@ We use pgAdmin’s import tool to load data from `CSV`:
 3.  Select the CSV file and encoding (usually UTF-8)
 4.  Click **OK** to import
 
-![Import CSV](./796f0de5-bd08-4811-b905-551ce39dad00.png)
+![Import CSV](images/importCSV.png)
 
 ---
 
@@ -121,7 +121,7 @@ To create a backup:
 3. Choose format (e.g., Tar)
 4. Click **Backup**
 
-![Backup](./b5b1eb93-a1dd-4b4f-96d9-61b8dc8e3fb2.png)
+![Backup](images/CreateBackup.png)
 
 ---
 
@@ -134,7 +134,7 @@ To restore a saved backup:
 3. Select format and encoding
 4. Click **Restore**
 
-![Restore](./632da5d3-dfee-4aba-8e2c-c6865d39a7eb.png)
+![Restore](images/UseBackup.png)
 
 ---
 
